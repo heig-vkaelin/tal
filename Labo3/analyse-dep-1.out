@@ -1,0 +1,12 @@
+Loading depparse model: UD_French.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 99996, Elapsed Time: 3.485 (s)
+Initializing dependency parser ... done [4.0 sec].
+Test File: fr-ud-dev.conllu3
+OOV Words: 2716 / 35771 = 7,59%
+UAS = 57,2195
+LAS = 43,6722
+DependencyParser parsed 35771 words in 1478 sentences in 10,0s at 3592,9 w/s, 148,5 sent/s.
